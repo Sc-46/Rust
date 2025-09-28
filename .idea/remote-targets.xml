@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="sc46@192.168.159.129:22" type="ssh/sftp" uuid="94aa4c87-60f5-480e-b8b2-680e279df8aa">
+        <config>
+          <option name="projectRootOnTarget" value="/home/sc46/Rust" />
+          <option name="serverName" value="sc46@192.168.159.129:22 password" />
+        </config>
+        <ContributedStateBase type="RsLanguageRuntime">
+          <config />
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
