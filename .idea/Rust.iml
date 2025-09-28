@@ -3,10 +3,6 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/sustech-rustlings/rustlings-macros/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/sustech-rustlings/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/sustech-rustlings/tests" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/sustech-rustlings/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
